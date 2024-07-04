@@ -16,11 +16,11 @@ Welcome to the **Quiz App**! This is a simple, interactive quiz application buil
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/QuizApp.git
+   git clone https://github.com/Rishi9322/Basic-Quiz.git
    ```
 2. **Navigate to the Project Directory**:
    ```sh
-   cd QuizApp
+   cd Basic-Quiz
    ```
 3. **Open `index.html` in Your Browser** to start the quiz.
 
