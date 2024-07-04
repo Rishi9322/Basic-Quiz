@@ -34,6 +34,8 @@ Welcome to the **Quiz App**! This is a simple, interactive quiz application buil
 
 Feel free to contribute to this project by submitting issues or pull requests. Let's make this quiz app even better together!
 
+[Linkedin](https://www.linkedin.com/in/rishi-poddar/)
+
 ---
 
 
